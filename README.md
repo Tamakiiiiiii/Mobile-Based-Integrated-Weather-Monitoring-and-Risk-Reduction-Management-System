@@ -1,5 +1,5 @@
 
-  # Weather Advisory and Friend Tracker
+  # Mobile Based Integrated Weather Monitoring and Risk Reduction Management System
 
   This is a code bundle for Mobile Based Integrated Weather Monitoring and Risk Reduction Management System.
 
