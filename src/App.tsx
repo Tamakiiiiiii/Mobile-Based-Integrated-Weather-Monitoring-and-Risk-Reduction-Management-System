@@ -20,7 +20,7 @@ export default function App() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Cloud className="h-6 w-6 text-blue-600" />
-            <h1>WeatherGuard</h1>
+            <h1>Prototype v1.2</h1>
           </div>
           <div className="text-xs text-muted-foreground">
             Manila, PH
